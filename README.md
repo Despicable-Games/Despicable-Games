@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Despicable-Games
+- 👋 hello and welcome to the Despicable Games GitHub page! we use this page for web pages and projects outside of roblox
 
 <!---
 Despicable-Games/Despicable-Games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
